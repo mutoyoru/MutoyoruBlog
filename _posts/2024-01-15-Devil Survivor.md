@@ -124,7 +124,6 @@ Devil Survivor'ı çok seviyorum. Neredeyse her açıdan mükemmel bulduğum bir
 ![desu14.png](/assets/2024-01-15-Devil-Survivor/images/desu14.png)
 *Yazıyı okuyan kardeşlerim, sağ olun, var olun!*
 
-<hr>
 
 *Dip Not: Tüm ekran görüntüleri bizzat bendeniz tarafından Nintendo 2DS sisteminden alınmıştır. Gif'ler için mecbur emülatör kullanmak zorunda kaldım. 2DS'te alamıyorum Gif, ben ne yapayım...*
 
@@ -132,3 +131,9 @@ Devil Survivor'ı çok seviyorum. Neredeyse her açıdan mükemmel bulduğum bir
 
 ![desu15.png](/assets/2024-01-15-Devil-Survivor/images/desu15.png)
 *Devil Survivor OST'si Spotify'a yayınlanınca ben*
+
+<hr>
+
+<script src="https://utteranc.es/client.js" repo="mutoyoru/MutoyoruBlog" issue-term="url" label="blog-comments" theme="github-dark" crossorigin="anonymous" async> </script> 
+
+<hr>
