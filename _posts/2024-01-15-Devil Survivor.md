@@ -9,7 +9,6 @@ tags:
   - devil-survivor
   - nintendo-ds
   - nintendo-3ds
-comments: "false"
 ---
 
 *Ey Adem'in oğlu! Yüce Rabbin sana sayısız nimet sundu. Ancak sen Rabbine nankörlük edip lanetlenmiş iblislerle el ele yürümeye çalıştın. İşlediğin sayısız günaha rağmen Rabbin sonsuz merhamet sahibi. Sana, Rabbinin dünyayı yarattığı süre kadar bir vakit bahşedildi. Bu vakit kapsamında olur da işlediğin günahlarına tövbe edip Rabbinden merhamet dilersen O seni affedecektir. Eğer ki günahlar bataklığında ilerlemeye devam edersen, yer ve gök şahit olsun ki sen ve senin dünyan yerin dibine girecektir. Bu, sana yapılmış son uyarıdır...  - M*
@@ -134,6 +133,13 @@ Devil Survivor'ı çok seviyorum. Neredeyse her açıdan mükemmel bulduğum bir
 
 <hr>
 
-<script src="https://utteranc.es/client.js" repo="mutoyoru/MutoyoruBlog" issue-term="url" label="blog-comments" theme="github-dark" crossorigin="anonymous" async> </script> 
+<script src="https://utteranc.es/client.js"
+        repo="mutoyoru/MutoyoruBlog"
+        issue-term="url"
+        label="blog-comments"
+        theme="github-dark"
+        crossorigin="anonymous"
+        async>
+</script>
 
 <hr>
