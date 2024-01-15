@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Devil Survivor
-date: 2024-01-15 21:40:00 +0300
+date: 2024-01-15 21:50:00 +0300
 categories: oyun-hakkında-yazılar
 permalink: /devil-survivor
 tags:
@@ -9,6 +9,7 @@ tags:
   - devil-survivor
   - nintendo-ds
   - nintendo-3ds
+comments: false
 ---
 
 *Ey Adem'in oğlu! Yüce Rabbin sana sayısız nimet sundu. Ancak sen Rabbine nankörlük edip lanetlenmiş iblislerle el ele yürümeye çalıştın. İşlediğin sayısız günaha rağmen Rabbin sonsuz merhamet sahibi. Sana, Rabbinin dünyayı yarattığı süre kadar bir vakit bahşedildi. Bu vakit kapsamında olur da işlediğin günahlarına tövbe edip Rabbinden merhamet dilersen O seni affedecektir. Eğer ki günahlar bataklığında ilerlemeye devam edersen, yer ve gök şahit olsun ki sen ve senin dünyan yerin dibine girecektir. Bu, sana yapılmış son uyarıdır...  - M*
@@ -124,22 +125,23 @@ Devil Survivor'ı çok seviyorum. Neredeyse her açıdan mükemmel bulduğum bir
 *Yazıyı okuyan kardeşlerim, sağ olun, var olun!*
 
 
-*Dip Not: Tüm ekran görüntüleri bizzat bendeniz tarafından Nintendo 2DS sisteminden alınmıştır. Gif'ler için mecbur emülatör kullanmak zorunda kaldım. 2DS'te alamıyorum Gif, ben ne yapayım...*
+**Dip Not:** Tüm ekran görüntüleri bizzat bendeniz tarafından Nintendo 2DS sisteminden alınmıştır. Gif'ler için mecbur emülatör kullanmak zorunda kaldım. 2DS'te alamıyorum Gif, ben ne yapayım...
 
-*Dip Not 2: Bu arada ben bu yazıyı yetiştirmeye çalışken Atlus, Devil Survivor 1 ve 2'nin albümlerini Apple Music, Spotify gibi dijital müzik servislerinde yayınladı. Güzel bir sürpriz oldu. Bir anda o kadar mutlu oldum ki şaşkınlıktan ve mutluluktan Kudlak oldum. Ahan da aşağıya bakınız!*
+**Dip Not 2:** Bu arada ben bu yazıyı yetiştirmeye çalışken Atlus, Devil Survivor 1 ve 2'nin albümlerini Apple Music, Spotify gibi dijital müzik servislerinde yayınladı. Güzel bir sürpriz oldu. Bir anda o kadar mutlu oldum ki şaşkınlıktan ve mutluluktan Kudlak oldum. Ahan da aşağıya bakınız!
 
 ![desu15.png](/assets/2024-01-15-Devil-Survivor/images/desu15.png)
 *Devil Survivor OST'si Spotify'a yayınlanınca ben*
+<br><br>
 
-<hr>
-
-<script src="https://utteranc.es/client.js"
-        repo="mutoyoru/MutoyoruBlog"
-        issue-term="url"
-        label="blog-comments"
-        theme="github-dark"
-        crossorigin="anonymous"
-        async>
-</script>
-
+<div class="mx-auto">
+  <hr>
+  <script src="https://utteranc.es/client.js"
+          repo="mutoyoru/MutoyoruBlog"
+          issue-term="url"
+          label="blog-comments"
+          theme="github-dark"
+          crossorigin="anonymous"
+          async>
+  </script>
+  </div>
 <hr>
