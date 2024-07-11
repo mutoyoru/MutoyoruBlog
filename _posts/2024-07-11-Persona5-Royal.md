@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '"Persona 5 Royal"'
+title: Persona 5 Royal
 date: 2024-07-11 22:00:00 +0300
 categories: oyun-hakkında-yazılar
 permalink: /persona-5-royal
